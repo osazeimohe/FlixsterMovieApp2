@@ -3,7 +3,7 @@
 **FlixsterMovieApp** is an android app that allows a user to view a recycler view of movies currently streaming and their overview
 Submitted by: **Osaze Imohe**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
