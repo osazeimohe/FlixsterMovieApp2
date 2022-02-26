@@ -13,14 +13,6 @@ The following **required** functionality is completed:
 * [x] User can **view a movie's overview** 
 * [x] User **can see the movie's poster image**
 
-The following **optional** features are implemented:
-
-* [ ] User can **view a list of movies currently showing in theaters** and then have any changes to the text reflected in the todo list
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 
 
 ## Notes
