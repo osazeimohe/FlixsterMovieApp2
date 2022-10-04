@@ -1,26 +1,47 @@
-# Project 1 - *ToDoApp*
+# Android Project 4 - *Flixster 2*
 
-**FlixsterMovieApp** is an android app that allows a user to view a recycler view of movies currently streaming and their overview
 Submitted by: **Osaze Imohe**
 
-Time spent: **7** hours spent in total
+**Flixster 2** is a movie browsing app that allows users to browse daily trending actors and what they are known for
 
-## User Stories
+Time spent: **12** hours spent in total
+
+## Required Features
 
 The following **required** functionality is completed:
 
-* [x] User can **view a list of movie titles from the movie DB API**
-* [x] User can **view a movie's overview** 
-* [x] User **can see the movie's poster image**
+- [x] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
+- [x] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [x] **Use Glide to load and display at least one image per entry**
+- [ ] **Click on an entry to view specific details about that entry using Intents**
+
+The following **optional** features are implemented:
+
+- [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
+- [ ] **Add rounded corners to the images using the Glide transformations**
+- [ ] **Implement a shared element transition when user clicks into the details of a movie**
 
 
 
-## Notes
-The speed of the emulator was a challenge
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+
 
 ## License
 
-    Copyright [2021] [Osaze Imohe]
+    Copyright [2022] [Osaze Imohe]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
